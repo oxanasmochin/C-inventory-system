@@ -1,0 +1,10 @@
+C:\Users\studerande\Desktop\programmering\Övning\hemuppgifter\Sista uppgift\modeaffär\modeaffär\bin\Debug\modeaffär.exe.config
+C:\Users\studerande\Desktop\programmering\Övning\hemuppgifter\Sista uppgift\modeaffär\modeaffär\bin\Debug\modeaffär.exe
+C:\Users\studerande\Desktop\programmering\Övning\hemuppgifter\Sista uppgift\modeaffär\modeaffär\bin\Debug\modeaffär.pdb
+C:\Users\studerande\Desktop\programmering\Övning\hemuppgifter\Sista uppgift\modeaffär\modeaffär\obj\Debug\modeaffär.csprojAssemblyReference.cache
+C:\Users\studerande\Desktop\programmering\Övning\hemuppgifter\Sista uppgift\modeaffär\modeaffär\obj\Debug\modeaffär.Form1.resources
+C:\Users\studerande\Desktop\programmering\Övning\hemuppgifter\Sista uppgift\modeaffär\modeaffär\obj\Debug\modeaffär.Properties.Resources.resources
+C:\Users\studerande\Desktop\programmering\Övning\hemuppgifter\Sista uppgift\modeaffär\modeaffär\obj\Debug\modeaffär.csproj.GenerateResource.cache
+C:\Users\studerande\Desktop\programmering\Övning\hemuppgifter\Sista uppgift\modeaffär\modeaffär\obj\Debug\modeaffär.csproj.CoreCompileInputs.cache
+C:\Users\studerande\Desktop\programmering\Övning\hemuppgifter\Sista uppgift\modeaffär\modeaffär\obj\Debug\modeaffär.exe
+C:\Users\studerande\Desktop\programmering\Övning\hemuppgifter\Sista uppgift\modeaffär\modeaffär\obj\Debug\modeaffär.pdb
